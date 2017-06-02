@@ -3,7 +3,7 @@ A Swift 3 custom UIButton and UITextField with AppleMusic corner radius style (h
 
 AppleMusicButton and AppleMusicTextField: UIView are @IBDesignable classes so they are rendered in your storyboard, and all their properties are @IBInspectable so that you can customize them inside the storyboard in the Attributes inspector.
 
-#Quick install:
+# Quick install:
 * Just drag these classes into your project
 * In your storyboard, select a UIButton or UITextField
 * Go the the identity inspector and in the class field, type AppleMusicButton/AppleMusicTextField instead of UIButton/UITextField
